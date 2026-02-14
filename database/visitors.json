@@ -1,0 +1,261 @@
+[
+    {
+        "id": "1",
+        "name": "Fauzan Yovie",
+        "message": "gue yakin lo udah lakuin yang terbaik raf, goodluck bro",
+        "createdAt": "2026-02-01T07:15:00.000Z",
+        "gender": "male"
+    },
+    {
+        "id": "2",
+        "name": "AMMA",
+        "message": "sumpah effort lo gokil sih nyxie, salut gue. jarang ada yg mau gini zaman now",
+        "createdAt": "2026-02-01T06:30:00.000Z",
+        "gender": "male"
+    },
+    {
+        "id": "3",
+        "name": "Fyra",
+        "message": "bagus bgt kak websitenya, semoga pesannya tersampaikan yaa",
+        "createdAt": "2026-02-01T04:45:00.000Z",
+        "gender": "female"
+    },
+    {
+        "id": "4",
+        "name": "Keny",
+        "message": "mantap gio, gass terus bang 🔥",
+        "createdAt": "2026-02-01T02:10:00.000Z",
+        "gender": "male"
+    },
+    {
+        "id": "5",
+        "name": "Dam",
+        "message": "respect rafly, lo keren berani jujur gini",
+        "createdAt": "2026-01-31T22:50:00.000Z",
+        "gender": "male"
+    },
+    {
+        "id": "6",
+        "name": "G",
+        "message": "solid bro 👍",
+        "createdAt": "2026-01-31T20:25:00.000Z",
+        "gender": "male"
+    },
+    {
+        "id": "7",
+        "name": "Birru",
+        "message": "semoga doi luluh ya bang, lo udah effort parah sih ini",
+        "createdAt": "2026-01-31T17:40:00.000Z",
+        "gender": "male"
+    },
+    {
+        "id": "8",
+        "name": "Diksans",
+        "message": "kelas nyxie, lanjutkan bakatmu",
+        "createdAt": "2026-01-31T14:15:00.000Z",
+        "gender": "male"
+    },
+    {
+        "id": "9",
+        "name": "Little Boy",
+        "message": "simple dan elegan, suka bgt stylenya gio",
+        "createdAt": "2026-01-31T11:30:00.000Z",
+        "gender": "male"
+    },
+    {
+        "id": "10",
+        "name": "Leyn",
+        "message": "menurut gue ini sweet bgt sih, semangat ya raf",
+        "createdAt": "2026-01-31T08:50:00.000Z",
+        "gender": "female"
+    },
+    {
+        "id": "11",
+        "name": "Ge",
+        "message": "aaaa gemes bgt kak, terharu bacanya 🥺",
+        "createdAt": "2026-01-31T05:20:00.000Z",
+        "gender": "female"
+    },
+    {
+        "id": "12",
+        "name": "Plenger",
+        "message": "animasinya smooth, codingan rapi. nice work rafly",
+        "createdAt": "2026-01-30T23:55:00.000Z",
+        "gender": "male"
+    },
+    {
+        "id": "13",
+        "name": "Orked",
+        "message": "good luck kak nyxie! aku doain yang terbaik",
+        "createdAt": "2026-01-30T20:10:00.000Z",
+        "gender": "female"
+    },
+    {
+        "id": "14",
+        "name": "Zola",
+        "message": "jarang liat cowo seserius ini, semoga dia sadar ya kak",
+        "createdAt": "2026-01-30T17:45:00.000Z",
+        "gender": "male"
+    },
+    {
+        "id": "15",
+        "name": "Mecca",
+        "message": "kak raf tulisannya bagus bgt, ngena di hati 🤍",
+        "createdAt": "2026-01-30T14:30:00.000Z",
+        "gender": "female"
+    },
+    {
+        "id": "16",
+        "name": "Pat",
+        "message": "lanjutkan bg, support terus",
+        "createdAt": "2026-01-30T11:20:00.000Z",
+        "gender": "male"
+    },
+    {
+        "id": "17",
+        "name": "!Nein.",
+        "message": "keren parah, detailnya dapet bgt",
+        "createdAt": "2026-01-30T09:40:00.000Z",
+        "gender": "male"
+    },
+    {
+        "id": "18",
+        "name": "Leon",
+        "message": "ini baru laki, berani express feeling. salut wkwk",
+        "createdAt": "2026-01-30T07:15:00.000Z",
+        "gender": "male"
+    },
+    {
+        "id": "19",
+        "name": "Nastch",
+        "message": "definsi tulus sih ini, semangat bg 🔥",
+        "createdAt": "2026-01-30T05:50:00.000Z",
+        "gender": "male"
+    },
+    {
+        "id": "21",
+        "name": "Najo",
+        "message": "gokil sih raf",
+        "createdAt": "2026-01-31T11:20:00.000Z",
+        "gender": "male"
+    },
+    {
+        "id": "22",
+        "name": "Dreey",
+        "message": "mantap bro websitenya!",
+        "createdAt": "2026-01-31T09:10:00.000Z",
+        "gender": "male"
+    },
+    {
+        "id": "23",
+        "name": "Valiace",
+        "message": "kak raf effort bgt, semoga diterima ya kak 🤍",
+        "createdAt": "2026-01-30T16:40:00.000Z",
+        "gender": "female"
+    },
+    {
+        "id": "24",
+        "name": "Lavian",
+        "message": "gas terooss bg",
+        "createdAt": "2026-01-31T12:50:00.000Z",
+        "gender": "male"
+    },
+    {
+        "id": "25",
+        "name": "Rusdi",
+        "message": "malah coding wkwk mantap raf",
+        "createdAt": "2026-01-31T19:30:00.000Z",
+        "gender": "male"
+    },
+    {
+        "id": "26",
+        "name": "Dafpung",
+        "message": "sweet bgt kak, aku suka websitenya!",
+        "createdAt": "2026-01-31T15:10:00.000Z",
+        "gender": "female"
+    },
+    {
+        "id": "27",
+        "name": "Percyyy",
+        "message": "menyala abangku 🔥",
+        "createdAt": "2026-01-30T22:15:00.000Z",
+        "gender": "male"
+    },
+    {
+        "id": "28",
+        "name": "V",
+        "message": "respect bro",
+        "createdAt": "2026-01-31T10:05:00.000Z",
+        "gender": "male"
+    },
+    {
+        "id": "29",
+        "name": "Tohsaka",
+        "message": "keren raf, semoga sukses",
+        "createdAt": "2026-01-31T03:25:00.000Z",
+        "gender": "male"
+    },
+    {
+        "id": "30",
+        "name": "Rai",
+        "message": "gas terus bang jgn kasih kendor",
+        "createdAt": "2026-01-30T08:45:00.000Z",
+        "gender": "male"
+    },
+    {
+        "id": "31",
+        "name": "Blooms",
+        "message": "clean design bro, respect",
+        "createdAt": "2026-01-31T06:55:00.000Z",
+        "gender": "male"
+    },
+    {
+        "id": "32",
+        "name": "Natta",
+        "message": "gemes bgt plisss, goodluck kak! 🥺",
+        "createdAt": "2026-01-30T19:20:00.000Z",
+        "gender": "female"
+    },
+    {
+        "id": "33",
+        "name": "Junyun",
+        "message": "keren bang, semoga dia suka",
+        "createdAt": "2026-01-31T14:50:00.000Z",
+        "gender": "male"
+    },
+    {
+        "id": "34",
+        "name": "Clowy",
+        "message": "gokil sih ini",
+        "createdAt": "2026-01-30T21:35:00.000Z",
+        "gender": "male"
+    },
+    {
+        "id": "35",
+        "name": "Aliong",
+        "message": "mantap raf, lanjutkan",
+        "createdAt": "2026-01-31T01:10:00.000Z",
+        "gender": "male"
+    },
+    {
+        "id": "36",
+        "name": "Ikbal",
+        "message": "gass terus bro 💪",
+        "createdAt": "2026-01-30T18:30:00.000Z",
+        "gender": "male"
+    },
+    {
+        "id": "37",
+        "name": "Ipat",
+        "message": "nice effort bg!",
+        "createdAt": "2026-01-31T16:20:00.000Z",
+        "gender": "male"
+    },
+    {
+        "id": "38",
+        "name": "Nath",
+        "message": "salut sama lo raf",
+        "createdAt": "2026-01-30T12:45:00.000Z",
+        "gender": "male"
+    }
+]
