@@ -2,21 +2,21 @@
     {
         "id": "1",
         "name": "Fauzan Yovie",
-        "message": "Good luck Raf. Semoga apapun hasilnya, itu yang terbaik buat kalian berdua.",
+        "message": "Good luck Raf. Semoga apapun hasilnya, itu yang terbaik buat kalian berdua",
         "createdAt": "2026-02-01T07:15:00.000Z",
         "gender": "male"
     },
     {
         "id": "2",
         "name": "AMMA",
-        "message": "Keren webnya. Semangat terus buat kalian, jalan masih panjang.",
+        "message": "Keren webnya. Semangat terus buat kalian, jalan masih panjang",
         "createdAt": "2026-02-01T06:30:00.000Z",
         "gender": "male"
     },
     {
         "id": "3",
         "name": "Fyra",
-        "message": "Buat kak Aulia, semoga happy terus yaa. Dan buat kak Raf, semangat memperbaiki diri!",
+        "message": "Buat kak Aulia, semoga happy terus yaa. Dan buat kak Raf, semangat memperbaiki diri",
         "createdAt": "2026-02-01T04:45:00.000Z",
         "gender": "female"
     },
@@ -30,14 +30,14 @@
     {
         "id": "5",
         "name": "Dam",
-        "message": "Jalani aja dulu Raf, jodoh ga kemana kok.",
+        "message": "Jalani aja dulu Raf, jodoh ga kemana kok",
         "createdAt": "2026-01-31T22:50:00.000Z",
         "gender": "male"
     },
     {
         "id": "6",
         "name": "G",
-        "message": "Simple tapi oke. Good job.",
+        "message": "Simple tapi oke. Good job",
         "createdAt": "2026-01-31T20:25:00.000Z",
         "gender": "male"
     },
@@ -51,14 +51,14 @@
     {
         "id": "8",
         "name": "Diksans",
-        "message": "Estetik parah.",
+        "message": "Estetik parah",
         "createdAt": "2026-01-31T14:15:00.000Z",
         "gender": "male"
     },
     {
         "id": "9",
         "name": "Little Boy",
-        "message": "Nah gini dong, daripada galau mending berkarya wkwk.",
+        "message": "Nah gini dong, daripada galau mending berkarya wkwk",
         "createdAt": "2026-01-31T11:30:00.000Z",
         "gender": "male"
     },
@@ -70,128 +70,121 @@
         "gender": "female"
     },
     {
-        "id": "12",
-        "name": "Plenger",
-        "message": "Gokil animasinya.",
-        "createdAt": "2026-01-30T23:55:00.000Z",
-        "gender": "male"
-    },
-    {
         "id": "13",
         "name": "Orked",
-        "message": "Semangat kak Aulia! Do what's best for you. Dan buat kak Raf, keep strong!",
+        "message": "Semangat kak Aulia! Do what's best for you. Dan buat kak Raf, keep strong",
         "createdAt": "2026-01-30T20:10:00.000Z",
         "gender": "female"
     },
     {
         "id": "14",
         "name": "Zola",
-        "message": "Respect udah berani jujur. Sisanya serahin sama yang di Atas aja.",
+        "message": "Respect udah berani jujur. Sisanya serahin sama yang di Atas aja",
         "createdAt": "2026-01-30T17:45:00.000Z",
         "gender": "male"
     },
     {
         "id": "15",
         "name": "Mecca",
-        "message": "Suka sama vibes webnya. Tenang banget.",
+        "message": "Suka sama vibes webnya. Tenang banget",
         "createdAt": "2026-01-30T14:30:00.000Z",
         "gender": "female"
     },
     {
         "id": "17",
         "name": "!Nein.",
-        "message": "Mantap bang.",
+        "message": "Mantap bang",
         "createdAt": "2026-01-30T09:40:00.000Z",
         "gender": "male"
     },
     {
         "id": "18",
         "name": "Leon",
-        "message": "Lelaki sejati berani minta maaf. Lanjutkan bro.",
+        "message": "Respect bro, semoga lancar kedepannya",
         "createdAt": "2026-01-30T07:15:00.000Z",
         "gender": "male"
     },
     {
         "id": "19",
         "name": "Nastch",
-        "message": "Semoga pesannya sampe.",
+        "message": "Semoga pesannya sampe",
         "createdAt": "2026-01-30T05:50:00.000Z",
         "gender": "male"
     },
     {
         "id": "22",
         "name": "Dreey",
-        "message": "Gas terus bang.",
+        "message": "Gas terus bang",
         "createdAt": "2026-01-31T09:10:00.000Z",
         "gender": "male"
     },
     {
         "id": "24",
         "name": "Lavian",
-        "message": "Fokus karir sama diri sendiri dulu aja bang, nanti juga indah pada waktunya.",
+        "message": "Fokus karir sama diri sendiri dulu aja bang, nanti juga indah pada waktunya",
         "createdAt": "2026-01-31T12:50:00.000Z",
         "gender": "male"
     },
     {
         "id": "25",
         "name": "Rusdi",
-        "message": "Codingan rapi bang, ajarin dong wkwk.",
+        "message": "Codingan rapi bang, ajarin dong wkwk",
         "createdAt": "2026-01-31T19:30:00.000Z",
         "gender": "male"
     },
     {
         "id": "26",
         "name": "Dafpung",
-        "message": "Buat kak Aulia, semangat yaa! Apapun pilihannya pasti itu yang terbaik.",
+        "message": "Buat kak Aulia, semangat yaa! Apapun pilihannya pasti itu yang terbaik",
         "createdAt": "2026-01-31T15:10:00.000Z",
         "gender": "female"
     },
     {
         "id": "27",
         "name": "Percyyy",
-        "message": "Kelas.",
+        "message": "Kelas",
         "createdAt": "2026-01-30T22:15:00.000Z",
         "gender": "male"
     },
     {
         "id": "28",
         "name": "V",
-        "message": "Nice one bro.",
+        "message": "Nice one bro",
         "createdAt": "2026-01-31T10:05:00.000Z",
         "gender": "male"
     },
     {
         "id": "29",
         "name": "Tohsaka",
-        "message": "Semoga sukses kedepannya Raf.",
+        "message": "Semoga sukses kedepannya Raf",
         "createdAt": "2026-01-31T03:25:00.000Z",
         "gender": "male"
     },
     {
         "id": "30",
         "name": "Rai",
-        "message": "Kalem aja bang, nikmatin prosesnya.",
+        "message": "Kalem aja bang, nikmatin prosesnya",
         "createdAt": "2026-01-30T08:45:00.000Z",
         "gender": "male"
     },
     {
         "id": "31",
         "name": "Blooms",
-        "message": "Lagunya enak-enak.",
+        "message": "Lagunya enak-enak",
         "createdAt": "2026-01-31T06:55:00.000Z",
         "gender": "male"
     },
     {
         "id": "32",
         "name": "Natta",
-        "message": "Love this. Kak Aulia pasti bangga pernah kenal cowok kayak kakak.",
+        "message": "Lucu banget webnya, semangat kak",
         "createdAt": "2026-01-30T19:20:00.000Z",
         "gender": "female"
     },
     {
         "id": "33",
         "name": "Junyun",
-        "message": "Keren sih.",
+        "message": "Keren sih",
         "createdAt": "2026-01-31T14:50:00.000Z",
         "gender": "male"
     },
@@ -205,28 +198,28 @@
     {
         "id": "35",
         "name": "Aliong",
-        "message": "Lanjutkan bakatmu.",
+        "message": "Lanjutkan bakatmu",
         "createdAt": "2026-01-31T01:10:00.000Z",
         "gender": "male"
     },
     {
         "id": "36",
         "name": "Ikbal",
-        "message": "Badai pasti berlalu bro.",
+        "message": "Badai pasti berlalu bro",
         "createdAt": "2026-01-30T18:30:00.000Z",
         "gender": "male"
     },
     {
         "id": "37",
         "name": "Ipat",
-        "message": "Nice.",
+        "message": "Nice",
         "createdAt": "2026-01-31T16:20:00.000Z",
         "gender": "male"
     },
     {
         "id": "38",
         "name": "Nath",
-        "message": "Santai aja Raf, dunia masih luas.",
+        "message": "Santai aja Raf, dunia masih luas",
         "createdAt": "2026-01-30T12:45:00.000Z",
         "gender": "male"
     }
