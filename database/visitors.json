@@ -105,13 +105,6 @@
         "gender": "female"
     },
     {
-        "id": "16",
-        "name": "Pat",
-        "message": "lanjutkan bg, support terus",
-        "createdAt": "2026-01-30T11:20:00.000Z",
-        "gender": "male"
-    },
-    {
         "id": "17",
         "name": "!Nein.",
         "message": "keren parah, detailnya dapet bgt",
@@ -133,25 +126,11 @@
         "gender": "male"
     },
     {
-        "id": "21",
-        "name": "Najo",
-        "message": "gokil sih raf",
-        "createdAt": "2026-01-31T11:20:00.000Z",
-        "gender": "male"
-    },
-    {
         "id": "22",
         "name": "Dreey",
         "message": "mantap bro websitenya!",
         "createdAt": "2026-01-31T09:10:00.000Z",
         "gender": "male"
-    },
-    {
-        "id": "23",
-        "name": "Valiace",
-        "message": "kak raf effort bgt, semoga diterima ya kak 🤍",
-        "createdAt": "2026-01-30T16:40:00.000Z",
-        "gender": "female"
     },
     {
         "id": "24",

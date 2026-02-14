@@ -31,12 +31,12 @@ export default function VisitorPage() {
                         className="text-4xl md:text-5xl lg:text-6xl font-light mb-4 text-foreground"
                         style={{ fontFamily: "'Cormorant Garamond', Georgia, serif" }}
                     >
-                        Sudah Selesai Membaca?
+                        Gimana menurutmu?
                     </h1>
                     <p className="text-muted-foreground text-base md:text-lg max-w-lg mx-auto leading-relaxed">
-                        Terima kasih sudah meluangkan waktu untuk membaca semuanya.
-                        Kalau kamu punya pendapat, kesan, atau mungkin sekadar ingin menyapa,
-                        silakan tinggalkan pesanmu di sini.
+                        Makasih banget udah mau baca sampai habis.
+                        Kalau ada yang mau disampein—entah itu semangat, saran, atau sekadar sapaan hangat—tulis aja di sini ya.
+                        Anggap aja kita lagi ngobrol santai sesama teman. Saling support itu indah, kan?
                     </p>
                 </motion.div>
 
