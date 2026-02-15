@@ -12,14 +12,14 @@ const content = {
     date: "February 14th, 2026",
     greeting: "Happy Valentine's Day,",
     name: "Aulia",
-    subtitle: "Everything is still the same, from January until now.",
+    subtitle: "Everything is still the same, from early February until now.",
     scrollHint: "Scroll to read",
 
     letter: `Hi, Aulia.
 
 Honestly, this feels super awkward. It’s kinda weird sending this when we aren't even together anymore. But well... I guess I just needed to get this out of my head.
 
-To be honest, I started building this website back in early January. I wrote, deleted, rewritten... I had no idea what to say. That’s why the Gallery page is literally empty right now. My head was just too messy back then to even deal with photos without overthinking it.
+To be honest, I started building this website back in early February. I wrote, deleted, rewritten... I had no idea what to say. That’s why the Gallery page is literally empty right now. My head was just too messy back then to even deal with photos without overthinking it.
 
 I just want to say one thing. Over here, everything is still the same.
 Nothing changed, seriously. My feelings, the way I see you, it’s all still there. Your contact name, photos, videos, they’re all exactly where they were. I haven’t deleted a thing, and I’m not planning to yet.
@@ -51,14 +51,14 @@ Hope you’re happy out there.`,
     date: "14 Februari 2026",
     greeting: "Selamat Hari Valentine,",
     name: "Aulia",
-    subtitle: "Semuanya masih sama, dari Januari sampai sekarang.",
+    subtitle: "Semuanya masih sama, dari awal Februari sampai sekarang.",
     scrollHint: "Scroll untuk membaca",
 
     letter: `Hai, Aulia.
 
 Sumpah, aneh banget rasanya ngetik ini. Canggung parah. Aneh aja ngasih ginian pas kondisi kita udah beda gini. Tapi ya... anggep aja ini buang uneg-uneg daripada dipendem terus.
 
-Jujur web ini udah aku bikin dari awal Januari sebenernya. Nulis, hapus, nulis lagi... bingung mau ngomong apa. Makanya kalau kamu liat Gallery kosong, itu karena pas itu kepala lagi ruwet banget, belum sanggup milih-milih foto tanpa jadi mellow sendiri.
+Jujur web ini udah aku bikin dari awal Februari sebenernya. Nulis, hapus, nulis lagi... bingung mau ngomong apa. Makanya kalau kamu liat Gallery kosong, itu karena pas itu kepala lagi ruwet banget, belum sanggup milih-milih foto tanpa jadi mellow sendiri.
 
 Intinya cuma satu, di sini, semuanya masih sama.
 Nggak ada yang berubah. Perasaan, cara aku liat kamu, masih sama. Nama kontak, foto-foto, video-video, semuanya masih ada di tempatnya. Aku belum hapus apa-apa, dan emang belum niat hapus.
